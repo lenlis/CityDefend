@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.CityDefend
+Exec=/usr/bin/ru.auroraos.CityDefend
+Name=CityDefend
+Name[ru]=Защита Города
+
+[X-Application]
+Permissions=SecureStorage;MediaIndexing;RemovableMedia;UserDirs
+OrganizationName=ru.auroraos
+ApplicationName=CityDefend
+ExecDBus=/usr/bin/ru.auroraos.CityDefend
